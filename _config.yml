@@ -2,6 +2,7 @@ name: D9 Brewing Company
 favicon: null
 layout_spectrum: 0.20107057131826878
 typography_spectrum: 0.19553398643620312
+title: D9 Brewing Company
 cta:
   domain: null
   bucket: null
