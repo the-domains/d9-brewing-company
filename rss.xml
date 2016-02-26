@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[D9 Brewing Company]]></title>
+        <description><![CDATA[D9 Brewing Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 21:25:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e3da60-40f5-4761-9b73-a3328028ef61.jpg">]]></description>
+            <link>undefined46d57d92-9ef3-411a-8e0f-519ad7989130/index.html</link>
+            <guid isPermaLink="false">46d57d92-9ef3-411a-8e0f-519ad7989130</guid>
+            <pubDate>Fri, 26 Feb 2016 21:25:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
